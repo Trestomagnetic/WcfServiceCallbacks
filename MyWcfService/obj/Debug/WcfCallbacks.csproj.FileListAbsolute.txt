@@ -1,0 +1,1 @@
+C:\Users\Bradley Trestin\Documents\Visual Studio 2013\Projects\WcfCallbacks\WcfCallbacks\bin\Debug\WcfCallbacks.exe.config
